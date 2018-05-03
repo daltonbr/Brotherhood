@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Brotherhood.Services
+namespace Brotherhood.Models
 {
-    public class Class1
+    public class Servico
     {
+        public string descricao { get; set; }
     }
 }
